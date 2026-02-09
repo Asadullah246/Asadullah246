@@ -3,7 +3,7 @@
 I build practical web applications and backend systems that solve real-world problems.  
 My focus is writing clean, maintainable code and designing structured solutions that are reliable, secure, and easy to scale.
 
-I enjoy turning ideas into working products — from database design and APIs to full application deployment — while continuously improving my engineering skills and learning modern best practices.
+I enjoy turning ideas into working products — from database design and APIs to full application deployment — while continuously improving my skills and learning modern best practices.
 
 
 ## 🛠 Tech Stack
